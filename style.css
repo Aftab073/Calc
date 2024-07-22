@@ -12,15 +12,17 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
-  background: url(pexels-rpnickson-2559941.jpg);
-  block-size: cover;
+  background: url(https://images.pexels.com/photos/1612351/pexels-photo-1612351.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
 }
 
 .calculator {
   padding: 20px;
   border: 2px solid #000;
   border-radius: 16px;
-  box-shadow: 0px 10px 30px rgba(19, 19, 20, 0.8);
+  box-shadow: 0px 10px 30px rgba(36, 118, 224, 0.8);
   background: rgba(0, 0, 0, 0.5);
 }
 
